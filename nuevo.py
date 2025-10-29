@@ -5,3 +5,5 @@ print("hola")
 def impar(a):
     if a%2!=0:
         print("es impar")
+
+        #creo algo 
